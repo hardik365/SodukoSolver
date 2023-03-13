@@ -1,3 +1,5 @@
+#Hardik Shahu
+#SodukoSolver
 import numpy as np
 
 #Feel free to change these numbers to your liking!
